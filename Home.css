@@ -1,0 +1,92 @@
+body{
+    background-image: url("Summer.jpg");
+    background-size: cover;
+}
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+.container{
+    margin-left: 210px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 15px;
+    margin-right: 27.5px;
+    margin-top: 10px;
+}
+.container h1{
+    text-align: center;
+}
+.container a{
+    font-size: 25px;
+    color:white;
+    text-decoration: none;
+}
+.container li{
+    margin-bottom: 5px;
+    position: relative;
+}
+#tel{
+    margin-left: 50px;
+}
+#chenar{
+    width: fit-content;
+    display:inline-block;
+}
+#bold{
+    border-bottom: 5px solid green;
+}
+#chenar p{
+    font-size: 15px;
+}
+#org p{
+    font-size:25px;
+}
+#home p{
+    font-size: 20px;
+    width: fit-content ;
+}
+#contact p{
+    font-size: 20px;
+}
+.poza{
+    text-align: center;
+}
+#chenar img{
+    height: 200px;
+    width: 400px;
+}
+.vl {
+    border-left: 3px solid black;
+    height: 200px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right:10px;
+  }
+#tabel th,tr{
+    color: white;
+}
+.green{
+    background-color: green;
+    float: right;
+    font-size: 20px;
+    color: white;
+}
+.red{
+    background-color: red;
+    float: right;
+    font-size: 20px;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    float: right;
+    font-size: 20px;
+    color: white;
+
+}
+.yellow_simple{
+    color: yellow;
+}
